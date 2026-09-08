@@ -2,6 +2,14 @@
 
 A customizable, modern Flutter date picker bottom sheet with smooth animations, custom themes, and an easy-to-use API.
 
+## Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yash27m/calender_sheet/main/screenshots/calendar_view.jpg" width="300" alt="Calendar View" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/yash27m/calender_sheet/main/screenshots/month_year_picker.jpg" width="300" alt="Month Year Picker" />
+</p>
+
 ## Features
 
 - 📅 **Modal Bottom Sheet or Embedded Widget**: Easily open as a bottom sheet modal with `showAppDatePickerBottomSheet` or embed as `AppDatePickerBottomSheet`.

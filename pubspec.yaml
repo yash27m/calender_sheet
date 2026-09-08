@@ -1,9 +1,16 @@
 name: app_date_picker_bottom_sheet
 description: A customizable Flutter date picker bottom sheet with smooth animations, custom themes, and an easy-to-use API.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/yash27m/calender_sheet
 repository: https://github.com/yash27m/calender_sheet
 issue_tracker: https://github.com/yash27m/calender_sheet/issues
+
+screenshots:
+  - description: 'Calendar grid view date picker bottom sheet'
+    path: screenshots/calendar_view.jpg
+  - description: 'Month and year wheel picker selection view'
+    path: screenshots/month_year_picker.jpg
+
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
